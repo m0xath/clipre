@@ -59,18 +59,6 @@ python main.py
 
 The tool will start monitoring your clipboard in the background. Copy any text containing PII to see it automatically redacted.
 
-### Testing
-
-Test the functionality:
-```bash
-python test_redactor.py
-```
-
-For interactive testing:
-```bash
-python test_redactor.py --interactive
-```
-
 ### Configuration
 
 Customize behavior by editing `config.py`:
